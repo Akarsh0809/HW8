@@ -1,3 +1,3 @@
-Completed Homework-8 for CI/CD.
+Homework-8 for CI/CD Completed.
 
-![Screenshot (39)](https://github.com/Kiran-Ramisetti-kr483/HW-8/assets/157845848/145a75b8-211e-4d0f-9a38-d25d914ca3cb)
+![HW8](https://github.com/Akarsh0809/hw8/assets/157727440/acac3d42-3b8b-498d-9a82-0267893376d5)
