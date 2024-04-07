@@ -47,6 +47,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: akarsh0809/hw8:latest
+          tags: ak2856/hw8:latest
 
           # Add other relevant build parameters here
